@@ -1,0 +1,2 @@
+Trying out Linux for the fisrt time. 
+i had issues with Git using Windows, so this is me using Linux to run git. 
